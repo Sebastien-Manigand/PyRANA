@@ -9,5 +9,5 @@ The repository includes:
 
 The data of the example case is located in the folder "example".
 
-The following figures an example of fit using PyRANA:
+The following figures shows an example of fit using PyRANA:
 ![pyroxene_fit](https://user-images.githubusercontent.com/57091666/160690154-ef2a6981-48e0-4713-9990-a7e10ca12d1d.png)
